@@ -1,0 +1,11 @@
+PATH:
+  src: "./src"
+  prod: "./dist"
+
+SASSINCLUDE:
+  - "./node_modules/normalize-scss/sass"
+
+COMPATIBILITY:
+  - "last 2 versions"
+  - "ie >= 9"
+  - "ios >= 7"
